@@ -2,7 +2,7 @@
 
 This Github Repo contains FWSC285: adaptation to French of the famous Winograd Schema Challenge (WSC), based on the latest version in English (285 items, alias WSC285) and the first version in French (214 items, alias FWSC214) by `Amsili, P., & Seminck, O. (2017, April)`.
 
-A machine-translated version of Winograde is also provided :)
+A machine-translated version of Winogrande (`Sakaguchi, K., Le Bras, R., Bhagavatula, C., & Choi, Y. (2020, April)`) is also provided :)
 
 ## Citation
 
