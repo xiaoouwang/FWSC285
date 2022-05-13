@@ -1,6 +1,6 @@
 ## Intro
 
-This Github Repo contains FWSC285: adaptation to French of the famous Winograd Schema Challenge (WSC), based on the latest version in English (285 items, alias WSC285) and the first version in French (214 items, alias FWSC214) by `Seminck, O., Segonne, V., & Amsili, P. (2019, July)`.
+This Github Repo contains FWSC285: adaptation to French of the famous Winograd Schema Challenge (WSC), based on the latest version in English (285 items, alias WSC285) and the first version in French (214 items, alias FWSC214) by `Amsili, P., & Seminck, O. (2017, April)`.
 
 A machine-translated version of Winograde is also provided :)
 
@@ -47,7 +47,7 @@ The folder `winogrande_translated_for_classification` contains Winogrande transl
 
 For the first French version of Winograd items, see
 
-> Seminck, O., Segonne, V., & Amsili, P. (2019, July). Modèles de langue appliqués aux schémas Winograd français. In Conférence sur le Traitement Automatique des Langues Naturelles (TALN)-PFIA 2019 (pp. 343-350). ATALA.
+> Amsili, P., & Seminck, O. (2017, April). A Google-proof collection of French Winograd schemas. In Proceedings of the 2nd Workshop on Coreference Resolution Beyond OntoNotes (CORBON 2017) (pp. 24-29).
 
 For information on Winogrande, see
 
