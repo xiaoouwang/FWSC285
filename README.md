@@ -1,3 +1,9 @@
+## Intro
+
+This Github Repo contains FWSC285: adaptation to French of the famous Winograd Schema Challenge (WSC), based on the latest version in English (285 items, alias WSC285) and the first version in French (214 items, alias FWSC214) by `Seminck, O., Segonne, V., & Amsili, P. (2019, July)`.
+
+A machine-translated version of Winograde is also provided :)
+
 ## Citation
 
 For further information, see
@@ -18,15 +24,15 @@ Winograd items on renewed French data sets},
 
 ## 285 French Winograd items
 
-Current version: `v1.3`
+Current version: `v2.0`
 
 For each item:
 
 * `english_id` -> the id of the corresponding English item in WSC285
 * `french_id` -> the id of the
  item in FWSC285
-* `french_text` -> the it
-em with the pronoun/possessive adjective marked with `[]`
+* `french_text` -> the item with the pronoun/possessive adjective marked with `[]`
+* `english_text` -> the item in WSC285
 * `french_text_ready_to_be_replaced` -> the item ready for pronoun replacement
 * `associative` -> if the item is associative (1 = yes, 2 = negatively associative)
 * `switchable` -> if the item is switchable (1 = yes)
@@ -35,8 +41,13 @@ em with the pronoun/possessive adjective marked with `[]`
 
 ## Winogrande in French
 
-The folder `winogrande_translated_for_classification` contains Winog
-rande translated to French using DeepL Pro.
+The folder `winogrande_translated_for_classification` contains Winogrande translated to French using DeepL Pro.
+
+## References
+
+For the first French version of Winograd items, see
+
+> Seminck, O., Segonne, V., & Amsili, P. (2019, July). Modèles de langue appliqués aux schémas Winograd français. In Conférence sur le Traitement Automatique des Langues Naturelles (TALN)-PFIA 2019 (pp. 343-350). ATALA.
 
 For information on Winogrande, see
 
