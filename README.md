@@ -8,17 +8,18 @@ A machine-translated version of Winogrande (`Sakaguchi, K., Le Bras, R., Bhagava
 
 For further information, see
 
-> Wang, X., Seminck, O., & Amsili, P. (2022). Investigating associative, switchable and negatable Winograd items on renewed French data sets. Actes de La Conférence Sur Le Traitement Automatique Des Langues Naturelles (TALN) PFIA 2022. Volume II: Articles Courts.
+> Wang, X., Seminck, O., & Amsili, P. (2022). Investigating associative, switchable and negatable Winograd items on renewed French data sets. In Traitement Automatique des Langues Naturelles (pp. 136-143). ATALA.
 
 If you use this data set, please cite:
 
 ```latex
-@inproceedings{wang2022,
-  title = {Investigating associative, switchable and negatable
-Winograd items on renewed French data sets},
-  booktitle = {Actes de La {{Conf\'erence}} Sur Le {{Traitement Automatique}} Des {{Langues Naturelles}} ({{TALN}}) {{PFIA}} 2022. {{Volume II}}: {{Articles}} Courts},
-  author = {Wang, Xiaoou and Seminck, Olga and Amsili, Pascal},
-  year = {2022}
+@inproceedings{wang2022investigating,
+  title={Investigating associative, switchable and negatable Winograd items on renewed French data sets},
+  author={Wang, Xiaoou and Seminck, Olga and Amsili, Pascal},
+  booktitle={Traitement Automatique des Langues Naturelles},
+  pages={136--143},
+  year={2022},
+  organization={ATALA}
 }
 ```
 
