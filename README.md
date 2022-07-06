@@ -13,13 +13,19 @@ For further information, see
 If you use this data set, please cite:
 
 ```latex
-@inproceedings{wang2022investigating,
-  title={Investigating associative, switchable and negatable Winograd items on renewed French data sets},
-  author={Wang, Xiaoou and Seminck, Olga and Amsili, Pascal},
-  booktitle={Traitement Automatique des Langues Naturelles},
-  pages={136--143},
-  year={2022},
-  organization={ATALA}
+@inproceedings{wang-etal-2022-investigating,
+    title = "Investigating associative, switchable and negatable {W}inograd items on renewed {F}rench data sets",
+    author = "Wang, Xiaoou  and
+      Seminck, Olga  and
+      Amsili, Pascal",
+    booktitle = "Actes de la 29e Conf{\'e}rence sur le Traitement Automatique des Langues Naturelles. Volume 1 : conf{\'e}rence principale",
+    month = "6",
+    year = "2022",
+    address = "Avignon, France",
+    publisher = "ATALA",
+    url = "https://aclanthology.org/2022.jeptalnrecital-taln.13",
+    pages = "136--143",
+    abstract = "The Winograd Schema Challenge (WSC) consists of a set of anaphora resolution problems resolvable only by reasoning about world knowledge. This article describes the update of the existing French data set and the creation of three subsets allowing for a more robust, fine-grained evaluation protocol of WSC in French (FWSC) : an associative subset (items easily resolvable with lexical co-occurrence), a switchable subset (items where the inversion of two keywords reverses the answer) and a negatable subset (items where applying negation on its verb reverses the answer). Experiences on these data sets with CamemBERT reach SOTA performances. Our evaluation protocol showed in addition that the higher performance could be explained by the existence of associative items in FWSC. Besides, increasing the size of training corpus improves the model{'}s performance on switchable items while the impact of larger training corpus remains small on negatable items.",
 }
 ```
 
